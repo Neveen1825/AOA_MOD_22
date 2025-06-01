@@ -1,5 +1,4 @@
 # EX 4B DYNAMIC PROGRAMMING – 2
-## DATE:
 ## AIM:
 To find the longest string (or strings) that is a substring (or are substrings) of two strings..
 
@@ -18,8 +17,8 @@ To find the longest string (or strings) that is a substring (or are substrings) 
 ## Program:
 ```
 Program to implement the longest common substring problem
-Developed by: Saravanan PV
-Register Number: 212223230195
+Developed by: Naveen Kanthan L
+Register Number: 212223230138
 ```
 ```py
 def lcs(X, Y):
